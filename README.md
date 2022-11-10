@@ -1,4 +1,4 @@
-# Page Builder Examples
+# Build Box of make gift
 
 This repo is a collection of extended and custom content type modules created to teach you how to develop for Page Builder. The modules are designed to help you learn by example, and teach you best practices for extending and creating new content types for Page Builder.
 
